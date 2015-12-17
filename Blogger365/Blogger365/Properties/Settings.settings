@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Blogger365.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BlogIDLuke" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">283133962923158099</Value>
+    </Setting>
+    <Setting Name="BlogIDOwen" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">1638114726255085844</Value>
+    </Setting>
+    <Setting Name="AlbumURILuke" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://picasaweb.google.com/data/feed/api/user/116954792991031607913/albumid/5995294768200592849</Value>
+    </Setting>
+    <Setting Name="AlbumURIOwen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://picasaweb.google.com/data/feed/api/user/116954792991031607913/albumid/5995295239904077553</Value>
+    </Setting>
+    <Setting Name="ImgDirLuke" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B:\L</Value>
+    </Setting>
+    <Setting Name="ImgDirOwen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B:\O</Value>
+    </Setting>
+    <Setting Name="LastImageLuke" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B:\L\IMG_1419.jpg</Value>
+    </Setting>
+    <Setting Name="LastImageOwen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B:\O\Owen 002.jpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
