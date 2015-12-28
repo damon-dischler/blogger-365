@@ -1,7 +1,6 @@
 ﻿using System;
 using Google.GData.Photos;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Google.Picasa;
 using Google.GData.Blogger;
 
 
